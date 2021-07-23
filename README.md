@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi call me **Alexandre** 👋. I'm a student of Information Systems and passionate about technology and programming.
 
-<!--
-**alexandresantosm/alexandresantosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying focused on Front-end solutions. The knowledge gained involves the React web ecosystem.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying on Faculdade Lourenço Filho.
+- 🌱 I’m currently learning:
+  - TypeScript
+  - Next.js
+  - Node.js
+- 📫 How to reach me: menezesalexandre@rocketmail.com
+- 😄 Pronouns: I'm cheerful and competent.
+- ⚡ Fun fact: I've been a "cordeiro" of blocks of electric trios.
