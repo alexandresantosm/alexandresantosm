@@ -6,7 +6,7 @@ I'm a student of Information Systems and passionate about technology and program
 
 <br>
 
-## 🧭 About me
+## About me 🧭
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alexandresantosm&color=blue)
 
@@ -27,9 +27,11 @@ The knowledge gained involves the React web ecosystem.
 
 - ⚡ Fun fact: I've been a "cordeiro" of blocks of electric trios.
 
+<img title="🔥 My profile at GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresantosm&theme=vision-friendly-dark&stroke=0000&background=0D1117&card_width=530" alt="Alexandre Menezes Streak" width="530em" />
+
 <br>
 
-## 🛠 Tech Stack
+## Tech Stack 🛠
 
 <div style="display: flex">
   <img align="center" alt="Javascript Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -45,15 +47,15 @@ The knowledge gained involves the React web ecosystem.
 
 <br>
 
-## ⚙️ GitHub Analytics
+## GitHub Analytics ⚙️
 
-<img src="https://github-readme-stats.vercel.app/api?username=alexandresantosm&show_icons=true&theme=vision-friendly-dark" alt="Alexandre Menezes Stars" width="530em" />
+<img title="✨ My stars at GitHub" src="https://github-readme-stats.vercel.app/api?username=alexandresantosm&show_icons=true&theme=vision-friendly-dark&bg_color=0D1117" alt="Alexandre Menezes Stars" width="530em" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresantosm&layout=compact&theme=vision-friendly-dark" alt="Alexandre Menezes Most Languages" width="530em"/>
+<img title="🧑🏻‍💻 My most top language at GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresantosm&layout=compact&theme=vision-friendly-dark&bg_color=0D1117" alt="Alexandre Menezes Most Languages" width="530em"/>
 
 <br>
 
-## 🧑🏻‍🦱 Social Links
+## Connect with me 🧑🏻‍🦱
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/alesanezes?color=%231da1f2&label=%40alesanezes&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/alesanezes)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandresmenezes)
