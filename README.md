@@ -61,3 +61,9 @@ The knowledge gained involves the React web ecosystem.
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandresmenezes)
 
 ![Latest Twitts](https://github-readme-twitter-gazf.vercel.app/api?id=alesanezes&layout=wide&show_reply=off&show_retweet=off)
+
+<br>
+
+## Watch my contribution graph 🐍
+
+![My contribution graph eaten by the snake gif](https://github.com/alexandresantosm/alexandresantosm/blob/output/github-contribution-grid-snake.gif)
